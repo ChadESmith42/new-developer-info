@@ -4,7 +4,7 @@ Some of my lessons learned, strategies employed, and tools used during the searc
 ## The Process
 I had a very stable process that I employed to conduct my job search. It worked for me. It may not, as I outline it, work for you. Take the best, leave the parts that don't work for you. Hopefully, this will give you some ideas of where to start or help you identify a new path forward. Different perspectives often jar us into creativity.
 
-## Tools
+## [Tools](/docs/tools.md)
 I used a variety of tools to conduct my job search and build my online footprint. You probably already know about these, but maybe I can surprise you.
 
 ## Lessons Learned
